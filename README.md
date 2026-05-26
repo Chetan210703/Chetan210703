@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Chetan210703
 - 👀 I’m interested in ...Sofware Development
-- 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...Web Development
 - 📫 How to reach me email-chetansingh210703@gmail.com
 
